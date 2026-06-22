@@ -10,24 +10,11 @@ Features:
 
 Enjoy your calculator! 🚀
 
-a good readme file in english
-
-Here's a clean, professional, and well-structured README.md file for your calculator project:
-
 # Calculator
 
 A modern, responsive, and elegant calculator built with **HTML, CSS, and JavaScript**.
 
 ![Calculator Preview](preview.png)
-## ✨ Features
-
-- ✅ Clean and modern dark UI design
-- ✅ Basic arithmetic operations (`+`, `−`, `×`, `÷`, `%`)
-- ✅ Responsive design (works great on mobile & desktop)
-- ✅ Keyboard support (numbers, operators, Enter, Backspace, Escape)
-- ✅ Delete last digit (⌫) and Clear All (AC)
-- ✅ Smooth animations and hover effects
-- ✅ Error handling (e.g., division by zero)
 
 ## 🖥️ Demo
 
