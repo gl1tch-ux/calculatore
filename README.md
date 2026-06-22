@@ -36,6 +36,14 @@ You can try the live demo by opening `index.html` in any modern web browser.
 ## 📁 Project Structure
 
 
+calculator/
+├── index.html
+├── main.css
+├── script.js
+├── README.md
+└── preview.png
+
+
 ## ✨ Features
 
 - ✅ Clean and modern dark UI design
